@@ -3,7 +3,3 @@ streamlit
 plotly
 openpyxl
 scikit-learn
-os
-time
-numpy 
-plotly.express
